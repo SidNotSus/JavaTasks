@@ -1,0 +1,15 @@
+[submodule "ComplexMatrix"]
+	path = ComplexMatrix
+	url = https://github.com/HSE-studing-SID/ComplexMatrix
+[submodule "Files"]
+	path = Files
+	url = https://github.com/HSE-studing-SID/Files
+[submodule "NameSplitter"]
+	path = NameSplitter
+	url = https://github.com/HSE-studing-SID/NameSplitter
+[submodule "Elevators"]
+	path = Elevators
+	url = https://github.com/HSE-studing-SID/Elevators
+[submodule "ElevatorsUI"]
+	path = ElevatorsUI
+	url = https://github.com/HSE-studing-SID/ElevatorsUI
